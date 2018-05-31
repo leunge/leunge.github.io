@@ -4,8 +4,9 @@ title: "Effective Java 3rd"
 comment: true
 date: 2018-05-09
 categories:
+  - java
   - programming
-
+    
 tags:
   - Effective JAVA 3rd
   - JAVA
