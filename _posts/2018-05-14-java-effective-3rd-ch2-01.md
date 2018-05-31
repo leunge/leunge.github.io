@@ -5,7 +5,7 @@ comment: true
 date: 2018-05-11
 categories:
   - programming-page
-
+  
 tags:
   - Effective JAVA 3rd
   - Effective JAVA 3rd ch2
