@@ -14,4 +14,4 @@ tags:
 
 ### [CHAPTER2. Creating and Destroying Objects](/programming-page/2018/05/10/java-effective-3rd-ch2.html)
 
-### [CHAPTER3. Methods Common to All Objects](/programming-page/2018/05/10/java-effective-3rd-ch2.html)
+### [CHAPTER3. Methods Common to All Objects](/programming-page/2018/05/20/java-effective-3rd-ch3.html)
